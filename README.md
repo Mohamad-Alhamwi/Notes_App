@@ -32,4 +32,7 @@ File System and Command Line Arguments have been used to achieve the following f
 
 ## How to run the app locally:
 
+Run `npm install` to install all needed dependencies.
+Then start the server using `node app.js`.
+
 ### Notes:
