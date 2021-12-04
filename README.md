@@ -36,3 +36,5 @@ Run `npm install` to install all needed dependencies.
 Then start the server using `node app.js`.
 
 ### Notes:
+
+This repository is no longer actively maintained.
